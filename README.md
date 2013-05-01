@@ -8,7 +8,7 @@
 `cd [app_dir]`
 
 ```
-git clone git@github.com:DFTi/caps_support
+git clone git@github.com:DFTi/caps-support.git
 cd caps_support
 npm install
 export PATH=./node_modules/.bin:$PATH
