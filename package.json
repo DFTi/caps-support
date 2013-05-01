@@ -1,0 +1,14 @@
+{
+  "name": "caps-support",
+  "version": "0.0.0",
+  "description": "Adds some support to caps",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "dependencies":{
+    "watch":"*",
+    "coffee-script":"*",
+    "require-yaml":"*",
+    "logfilestream":"*"
+  }
+}
